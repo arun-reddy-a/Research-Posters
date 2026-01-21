@@ -1,1 +1,1 @@
-![Demo](assets/posters.png)
+![Demo](posters.png)
